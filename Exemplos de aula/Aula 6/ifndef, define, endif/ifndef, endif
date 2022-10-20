@@ -1,0 +1,5 @@
+//se for um header, começar o arquivo com
+#ifndef ARQUIVO_H
+#define ARQUIVO_H
+//e terminá-lo com
+#endif
